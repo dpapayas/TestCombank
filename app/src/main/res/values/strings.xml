@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestCombank</string>
+    <string name="unknown_error">An unknown error occurred.</string>
+    <string name="sucess_delete">Successfully Delete.</string>
+</resources>
